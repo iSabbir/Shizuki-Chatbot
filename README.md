@@ -28,7 +28,9 @@
 ## :wrench: Installation
 
 1. Clone the repository:
+'''
 <code>git clone https://github.com/iSabbir/Shizuki-Chatbot.git</code>
+'''
 
 
 2. Install the required dependencies:
