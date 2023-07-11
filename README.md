@@ -29,13 +29,15 @@
 
 1. Clone the repository:
 ```
-<code>git clone https://github.com/iSabbir/Shizuki-Chatbot.git</code>
+git clone https://github.com/iSabbir/Shizuki-Chatbot.git
 ````
 
 
 2. Install the required dependencies:
 
-<code>pip install -r requirements.txt</code>
+```
+pip install -r requirements.txt
+````
 
 3. Replace the `TOKEN` variable in the script with your bot token.
 
