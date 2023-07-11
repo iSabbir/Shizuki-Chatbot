@@ -5,7 +5,7 @@ from telegram import Update, Bot, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Updater, MessageHandler, Filters
 
 # Replace TOKEN with your bot token
-TOKEN = "5862363998:AAGneBMBBwHL2Sm_j6GzG3087lfreFxg_dg"
+TOKEN = "BOT_TOKEN"
 bot = Bot(token=TOKEN)
 updater = Updater(token=TOKEN, use_context=True)
 
