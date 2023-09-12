@@ -1,7 +1,7 @@
 # Shizuki-Chatbot
 
 <p align="center">
-  <img src="https://i.imgur.com/8QZ9bB9.png" width="200">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNs1yRe4454cj5gAPSwv_uKDEK3dRTkUQxKA&usqp=CAU" width="200">
 </p>
 
 <h1 align="center">Shizuki Chatbot</h1>
